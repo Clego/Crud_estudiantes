@@ -10,7 +10,7 @@ public class Input {
     }
 
     public static String inputString() {
-        return sc.next();
+        return sc.nextLine();
     }
 
 }

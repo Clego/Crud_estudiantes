@@ -60,7 +60,7 @@ public class Output {
     }
 
     public static void lleno() {
-        System.out.println("Ya está lleno");
+        System.out.println("Esta lleno");
     }
     public static void eliminado() {
         System.out.println("Estudiante eliminado.");
